@@ -1,6 +1,9 @@
 # Problem 17: Capitalize first letter of each word
 # Find and fix the error
 
+# Problem 17: Capitalize first letter of each word
+# Find and fix the error
+
 def capitalize_words(text):
     words = text.split()
     capitalized = []
